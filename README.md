@@ -1,11 +1,9 @@
 # Hospital Management System
 
 Team Members:
-1. Rekha
-2. KavyaSofiya
-3. Vani
-4. Manasa
-5. Lahari
+1. N Sai Kiran
+2. U Ashok Kumar
+3. M Varun Kumar
 
 Project Description:
 This project is used to manage hospital operations like patients, doctors..............
